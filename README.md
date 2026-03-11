@@ -3,7 +3,7 @@
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![Shell](https://img.shields.io/badge/language-bash-blue)
 ![Platform](https://img.shields.io/badge/platform-linux%20%7C%20macOS-lightgrey)
-![Stars](https://img.shields.io/github/stars/vchebon/car-usb-prep?style=social)
+![Stars](https://img.shields.io/github/stars/chebonv/car-usb-prep?style=social)
 
 A portable Bash CLI tool that prepares a USB music library for **car stereos**.
 
