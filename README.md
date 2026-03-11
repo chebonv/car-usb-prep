@@ -27,6 +27,12 @@ Most car stereos have limited filename support. Long filenames get truncated unp
 
 ## Demo
 
+### Live Demo
+
+![Demo](live-demo.png)
+
+### Test dry run
+
 ```
 $ prepare-car-usb --dry-run /run/media/$USER/USB
 
